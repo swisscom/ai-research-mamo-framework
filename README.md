@@ -177,7 +177,9 @@ pytest
 
 ## Team
 
-Code written by The Recommenders @ Swisscom
+Code written by the recommenders@swisscom, including:
+
+[Kirtan Padh](https://github.com/kirtanp)
 
 
 
