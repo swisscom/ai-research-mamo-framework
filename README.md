@@ -180,6 +180,7 @@ pytest
 Code written by the recommenders@swisscom, including:
 
 [Kirtan Padh](https://github.com/kirtanp)
+
 [Milena Filipovic](https://github.com/MilenaFilipovic)
 
 
