@@ -1,4 +1,7 @@
-"""MultiObjectiveCDV, used to represent a Common
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+
+MultiObjectiveCDV, used to represent a Common
 Descent Vector for multiple objectives
 
 The MultiObjectiveCDV class contains the implementation

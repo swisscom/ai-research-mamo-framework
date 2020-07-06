@@ -1,4 +1,7 @@
-"""Template for using the multi-objective trainer.
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+
+Template for using the multi-objective trainer.
 
 This script is a template on how to use the multi-objective
 trainer to train and develop models. The user is encouraged

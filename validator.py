@@ -1,4 +1,7 @@
-"""Validator class, used for validating models on datasets with specified
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+
+Validator class, used for validating models on datasets with specified
  metrics and/or objectives.
 
 The Validator class is used during the validation stage of training a new model

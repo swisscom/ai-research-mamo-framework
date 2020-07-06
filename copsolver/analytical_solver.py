@@ -1,4 +1,7 @@
-"""AnalyticalSolver, used to solve the Quadratic
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+
+AnalyticalSolver, used to solve the Quadratic
 Constrained Optimization Problem for 2 gradients
 analytically.
 

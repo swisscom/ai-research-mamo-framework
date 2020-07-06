@@ -1,4 +1,7 @@
-"""NDCGAtK, used for calculating the Normalized Discounted Cumulative Gain.
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+
+NDCGAtK, used for calculating the Normalized Discounted Cumulative Gain.
 
 The NDCGAtK class contains the implementation of the NDCG metric.
 Its function is to evaluate results obtained using a certain model.

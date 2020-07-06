@@ -1,4 +1,7 @@
-"""Abstract Mamo Data Handler class, main source of feeding data
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+
+Abstract Mamo Data Handler class, main source of feeding data
 for the MAMO framework.
 
 This is the main class that will supply data to the MAMO framework.

@@ -1,4 +1,7 @@
-"""TopSelector class, used selecting top samples.
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+
+TopSelector class, used selecting top samples.
 
 The TopSelector class is a helper class used by different metric
 implementations to select the top values from arrays. This logic is extracted

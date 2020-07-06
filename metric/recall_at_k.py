@@ -1,4 +1,7 @@
-"""RecallAtK, used for calculating the recall of results.
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+
+RecallAtK, used for calculating the recall of results.
 
 The RecallAtK class contains the implementation of the recall metric.
 Its function is to evaluate results obtained using a certain model.

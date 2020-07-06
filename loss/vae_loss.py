@@ -1,3 +1,8 @@
+
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+"""
+
 from loss.loss_class import Loss
 import torch
 import torch.nn.functional as F

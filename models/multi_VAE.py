@@ -1,3 +1,7 @@
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+"""
+
 import torch.nn as nn
 import torch.nn.functional as F
 import torch

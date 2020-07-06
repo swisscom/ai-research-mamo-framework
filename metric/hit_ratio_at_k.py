@@ -1,4 +1,7 @@
-"""HitRatioAtK, used for calculating the hit ratio of results.
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+
+HitRatioAtK, used for calculating the hit ratio of results.
 
 The HitRatioAtK class contains the implementation of the hit ratio metric.
 Its function is to evaluate results obtained using a certain model.

@@ -1,4 +1,7 @@
-"""FrankWolfeSolver, used to solver the Quadratic
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+
+FrankWolfeSolver, used to solver the Quadratic
 Constrained Optimization Problem for 2 or more
 gradients numerically.
 

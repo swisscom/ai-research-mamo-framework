@@ -1,3 +1,7 @@
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+"""
+
 from models.multi_VAE import MultiVAE
 import torch.nn as nn
 import numpy as np

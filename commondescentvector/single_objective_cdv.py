@@ -1,4 +1,7 @@
-"""SingleObjectiveCDV, used to represent a Common
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+
+SingleObjectiveCDV, used to represent a Common
 Descent Vector for single objective
 
 The SingleObjectiveCDV class is mostly a wrapper

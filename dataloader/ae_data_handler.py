@@ -1,4 +1,7 @@
-"""Implementation of the MAMO Data Handler for developing
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+
+Implementation of the MAMO Data Handler for developing
 AE recommender system models.
 
 Since the MAMO framework is developed primarily for training

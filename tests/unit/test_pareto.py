@@ -1,3 +1,7 @@
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+"""
+
 from paretomanager.pareto_manager_class import ParetoManager
 import pytest
 from torch import nn

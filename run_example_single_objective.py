@@ -1,4 +1,7 @@
-"""Template for using the single objective trainer.
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+
+Template for using the single objective trainer.
 
 This script is a template on how to use the single objective
 trainer to train and develop models. The user is encouraged

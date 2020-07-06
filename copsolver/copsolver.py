@@ -1,4 +1,7 @@
-"""Abstract COPSolver class, used for defining a Constrained Optimization
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+
+Abstract COPSolver class, used for defining a Constrained Optimization
 Problem Solver.
 
 The Abstract COPSolver class contains a basic skeleton and some implementation
