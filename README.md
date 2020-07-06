@@ -187,3 +187,4 @@ Code written by the recommenders@swisscom, including:
 
 [Loic Nguyen](https://github.com/coiL10)
 
+[Blagoj Mitrevski](https://github.com/blagojce95)
