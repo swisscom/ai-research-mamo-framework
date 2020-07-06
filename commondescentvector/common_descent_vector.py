@@ -1,4 +1,7 @@
-"""Abstract CommonDescentVector class, used for defining a Common Descent Vector
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+
+Abstract CommonDescentVector class, used for defining a Common Descent Vector
 
 The abstract CommonDescentVector class contains a basic skeleton and some implementation
 details that will be shared among its children.

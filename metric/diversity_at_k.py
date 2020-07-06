@@ -1,4 +1,7 @@
-"""DiversityAtK, used for calculating the diversity of results.
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+
+DiversityAtK, used for calculating the diversity of results.
 
 The DiversityAtK class contains the implementation of the diversity metric.
 Its function is to evaluate results obtained using a certain model.

@@ -1,4 +1,7 @@
-"""MSELoss, used for calculating the Mean Squared Error.
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+
+MSELoss, used for calculating the Mean Squared Error.
 
 The MSELoss class contains the implementation of the MSE.
 MSE is a commonly used loss function, for example for regression.

@@ -1,4 +1,7 @@
-"""This class is used for training models and is the core of the framework.
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+
+This class is used for training models and is the core of the framework.
 
 With the help of this class, the user of the framework is able to train and
 develop models. The framework gets all the relevant objects as an input, and

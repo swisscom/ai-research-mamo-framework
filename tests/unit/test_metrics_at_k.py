@@ -1,3 +1,7 @@
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+"""
+
 from metric.recall_at_k import RecallAtK
 from metric.revenue_at_k import RevenueAtK
 from metric.diversity_at_k import DiversityAtK

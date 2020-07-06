@@ -1,4 +1,7 @@
-"""MamoDataset class, used by the AE Data Handler implementation
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+
+MamoDataset class, used by the AE Data Handler implementation
 of the data handler abstract class for loading datasets.
 
 This class is implementation of the pytorch Dataset

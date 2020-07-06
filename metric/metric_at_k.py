@@ -1,4 +1,7 @@
-"""Abstract Metric class, used for evaluating results.
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+
+Abstract Metric class, used for evaluating results.
 
 The abstract Metric class contains a basic skeleton and some implementation
 details that will be shared among its children classes. Its function is to

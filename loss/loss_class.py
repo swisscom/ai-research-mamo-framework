@@ -1,4 +1,7 @@
-"""Loss Class for all the losses of the MAMO framework.
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+
+Loss Class for all the losses of the MAMO framework.
   Typical usage example:  foo = Loss()
   bar = foo.compute_loss()
 """

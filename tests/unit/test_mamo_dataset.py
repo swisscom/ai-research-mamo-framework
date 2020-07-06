@@ -1,4 +1,7 @@
-"""This test doesn't need any custom library or any data loading.
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+
+This test doesn't need any custom library or any data loading.
 To run them just execute 'pytest'.
 """
 from dataloader.mamo_dataset import MamoDataset

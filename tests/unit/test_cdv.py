@@ -1,4 +1,8 @@
-""" Unit Tests for CommonDescentVector """
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+
+Unit Tests for CommonDescentVector
+"""
 
 import pytest
 import torch

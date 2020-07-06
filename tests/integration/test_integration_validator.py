@@ -1,3 +1,7 @@
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+"""
+
 from metric.recall_at_k import RecallAtK
 from dataloader.mamo_dataset import MamoDataset
 from validator import Validator

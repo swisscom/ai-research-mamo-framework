@@ -1,4 +1,7 @@
-"""TopSelectorTorch class, used selecting top samples.
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+
+TopSelectorTorch class, used selecting top samples.
 
 The TopSelectorTorch class is a helper class used by different metric
 implementations to select the top values from arrays. This logic is extracted

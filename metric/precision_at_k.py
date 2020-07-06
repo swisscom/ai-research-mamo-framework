@@ -1,4 +1,7 @@
-"""PrecisionAtK, used for calculating the precision of results.
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+
+PrecisionAtK, used for calculating the precision of results.
 
 The PrecisionAtK class contains the implementation of the precision metric.
 Its function is to evaluate results obtained using a certain model.

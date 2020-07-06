@@ -1,4 +1,7 @@
-"""RevenueAtK, used for calculating the revenue of results.
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+
+RevenueAtK, used for calculating the revenue of results.
 
 The RevenueAtK class contains the implementation of the revenue metric.
 Its function is to evaluate results obtained using a certain model.

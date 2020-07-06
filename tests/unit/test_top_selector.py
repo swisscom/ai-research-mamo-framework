@@ -1,3 +1,7 @@
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+"""
+
 from metric.top_selector import TopSelector
 from metric.top_selector_torch import TopSelectorTorch
 import numpy as np

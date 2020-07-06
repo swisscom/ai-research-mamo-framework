@@ -1,3 +1,7 @@
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+"""
+
 from loss.vae_loss import VAELoss
 from loss.mse_loss import MSELoss
 import pytest

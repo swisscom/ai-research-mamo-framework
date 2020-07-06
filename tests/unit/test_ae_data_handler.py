@@ -1,4 +1,7 @@
-"""This test generates random data to test the DataHandler.
+"""Copyright © 2020-present, Swisscom (Schweiz) AG.
+All rights reserved.
+
+This test generates random data to test the DataHandler.
 """
 from dataloader.ae_data_handler import AEDataHandler
 import os
