@@ -185,3 +185,5 @@ Code written by the recommenders@swisscom, including:
 
 [Nelson Antunes](https://github.com/Nelsi11120)
 
+[Loic Nguyen](https://github.com/coiL10)
+
