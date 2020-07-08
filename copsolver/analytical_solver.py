@@ -43,7 +43,7 @@ class AnalyticalSolver(COPSolver):
         if (len(gradients[0]) != len(gradients[1])):
             raise ValueError('Argument: The gradients must have the same length')
         if (gradients[0] == gradients[1]).all():
-            raise ValueError('Argument: the gradients cannot be the same')
+            return [0.5,0.5]
 
         r"""
         .. math::
