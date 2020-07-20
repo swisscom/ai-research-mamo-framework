@@ -51,8 +51,7 @@ def test_analytical_differents_gradient_length():
 
 # analytical sovler cannot take the same gradients
 def test_analytical_same_gradient():
-    with pytest.raises(ValueError):
-        analytical.solve(gradient_same)
+    assert((analytical.solve(gradient_same) == [0.5,0.5]))
 
 
 # analytical solver gives correct alphas
